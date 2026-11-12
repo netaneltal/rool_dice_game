@@ -1,0 +1,41 @@
+[
+    {
+        "player_name": "nati",
+        "rounds": "5",
+        "player_score": 3,
+        "computer_score": 1,
+        "winner": "nati",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 3,
+                "computer_dice": 2,
+                "winner": "nati"
+            },
+            {
+                "round": 2,
+                "player_dice": 5,
+                "computer_dice": 5,
+                "winner": "draw"
+            },
+            {
+                "round": 3,
+                "player_dice": 6,
+                "computer_dice": 2,
+                "winner": "nati"
+            },
+            {
+                "round": 4,
+                "player_dice": 4,
+                "computer_dice": 1,
+                "winner": "nati"
+            },
+            {
+                "round": 5,
+                "player_dice": 1,
+                "computer_dice": 6,
+                "winner": "computer"
+            }
+        ]
+    }
+]
